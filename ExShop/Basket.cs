@@ -13,6 +13,7 @@ namespace ExShop
         }
         //sadgasdg
         //komentarz 2
+        //komentarz 3
         public static int ItemsInBasket { get; set; }
         public static List<Item> SelectedItems { get; set; }
         public static double TotalPrice { get; set; }
