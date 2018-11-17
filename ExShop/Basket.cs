@@ -12,7 +12,7 @@ namespace ExShop
             SelectedItems = new List<Item>();
         }
         //sadgasdg
-        //kome
+        //ko
         //kome
         public static int ItemsInBasket { get; set; }
         public static List<Item> SelectedItems { get; set; }
