@@ -38,10 +38,9 @@
         public string LastName { get; set; }
         public string Email { get; set; }
         public double Cash { get; set; }
-        //asdgsdd
         public void Chodzi(string Name)
         {
-            System.Console.WriteLine(Name + " Idzie do przeodu");
+            System.Console.WriteLine(Name + " idzie do przeodu");
         }
     }
 }
